@@ -24,7 +24,7 @@
     "type": "git",
     "url": "git+https://github.com/BLKNeko/minha-carteira-backend.git"
   },
-  "author": "Augusto Rodrigues",
+  "author": "Augusto ",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.0.0",
