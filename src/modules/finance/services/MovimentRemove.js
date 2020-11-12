@@ -5,6 +5,7 @@ class MovimentRemove {
 
   async execute(user_id, moviment_id) {
     const movusid   =  await this.financeRepository.movimentById(moviment_id);
+    //movemente user id para ser comparado
     
 
     if (movusid.user_id !== user_id) {
